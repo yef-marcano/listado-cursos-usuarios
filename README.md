@@ -8,19 +8,15 @@ El bloque "Listado de Cursos Usuario" es una extensión para la plataforma de ap
 
 # Características Principales
 Visualización de Usuarios Inscritos: Muestra una lista de todos los usuarios inscritos en los cursos de Moodle.
+
 Filtrado por Curso: Permite a los usuarios filtrar la lista de inscritos por curso específico.
+
 Exportación de Datos: La extensión soporta la exportación de datos en múltiples formatos, incluyendo Excel, CSV, ODS, JSON, HTML y PDF.
 
 # Datos Mostrados
 La extensión muestra la siguiente información para cada usuario:
 
-ID del Usuario
-Nombre de Usuario
-Nombre
-Apellido
-Lista de Cursos en los que está inscrito (nombre completo del curso)
-Capturas de Pantalla
-Pantalla Principal
+Nombre de Usuario, Nombre, Apellido, Lista de Cursos en los que está inscrito (nombre completo del curso)
 
 Filtrado por Curso
 
